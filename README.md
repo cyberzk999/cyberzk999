@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Krish Patel 💫
 
-<!--
-**cyberzk999/cyberzk999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Student at John Abbott College, Likes Sports and Nature
+- 🌱 Currently learning: Computer Science
+- 📫 Reach me: (mailto:krish163234@gmail.com) / [LinkedIn]
+  (https://www.linkedin.com/in/krish-patel-a238842a7/)
 
-Here are some ideas to get you started:
+## ⚙My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C# • JavaScript • HTML • CSS
+
+## 🛠 My Favorite Tools
+
+VScode • OneDrive • Claude • Notion
