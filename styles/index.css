@@ -3,7 +3,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-}
+} /*! centering my image so it dosnt look wonky, although should work with top and bottom so it looks good on any device */
 
 .container {
   display: flex;
@@ -26,4 +26,5 @@
   display: flex;
   align-items: center;
   display: grid;
+  /* ! not working to center need to fix */
 }
