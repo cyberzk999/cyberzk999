@@ -1,0 +1,39 @@
+.ProfileImage {
+  width: 35%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20%;
+  border: 4px solid slategrey;
+} /*! centering my image so it dosnt look wonky, although should work with top and bottom so it looks good on any device */
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Header1 {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.subtitle {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+/* trigger change */
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  gap: 20px;
+  padding: 10px;
+  /* ! not working to center need to fix */
+}
+
+body {
+  background-color: lightgray;
+}
